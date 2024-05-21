@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abigail-fs
-- 👀 I’m interested in python and art
-- 🌱 I’m currently learning python, html and css
+- 👋 Hi, I’m Abi!
+- 👀 I’m interested in python and art.
+- 🌱 I’m currently learning python, html and css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns:she/her
