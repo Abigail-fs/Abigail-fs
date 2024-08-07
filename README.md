@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abi!
-- 👀 I’m interested in python, art, web development, pasing my classes, and machine learning.
-- 🌱 I’m currently learning python and c#
+- 👀 I’m interested in python, art, web development, pasing my classes, and graphic design.
+- 🌱 I’m currently learning c#
 - 📫 How to reach me: abigailstone333@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: one in 10 Americans thinks 'HTML' is a sexually transmitted disease
