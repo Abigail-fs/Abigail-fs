@@ -3,7 +3,7 @@ Occupation: Student
 
 Languages:
   - Coding:
-    - Python
+    - 🐍 Python
     - C#
   - Spoken
     - 🇨🇦 English (Primary)
